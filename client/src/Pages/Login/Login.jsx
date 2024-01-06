@@ -124,14 +124,6 @@ function Login()
               <Link to="/signup"> Signup </Link>
             </p>
 
-            <a
-              className="attr"
-              href="https://www.freepik.com/vectors/star"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Star vector created by vectorpouch - www.freepik.com
-            </a>
           </div>
         </div>
       </div>

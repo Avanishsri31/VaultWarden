@@ -116,7 +116,7 @@ function Passwords() {
               <label> Email </label>
               <input
                 type="email"
-                placeholder="E.g. rohitsaini@gmail.com"
+                placeholder="E.g. avanishsri@gmail.com"
                 value={platEmail}
                 onChange={(e) => setPlatEmail(e.target.value)}
                 required
